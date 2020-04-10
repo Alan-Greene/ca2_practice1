@@ -1,0 +1,5 @@
+Title   Category       Year   Quantity Checked out Rating sum Rating count
+The Great Wall Thriller 2017 2 3 0.0 0
+John Wick Chapter 2 Action 2017 4 1 0.0 0
+Logan Action 2017 1 4 0.0 0
+Loving Drama 2017 3 2 0.0 0
